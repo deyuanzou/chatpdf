@@ -1,0 +1,23 @@
+# langchain 是一个构建语言模型的库，这个项目中主要用到了它的聊天功能
+langchain==0.0.348
+
+# PyPDF2是用于读取、写入和操作PDF文件的库
+PyPDF2==3.0.1
+
+# altair 基于Vega和Vega-Lite，生成可视化图形
+altair==5.2.0
+
+# streamlit是一个用于快速创建数据应用的开源库，允许开发者使用Python快速创建有吸引力的数据驱动的web应用
+streamlit==1.29.0
+
+# faiss是Facebook AI Research开发的用于高效相似度搜索和聚类的库，它特别适用于大规模高维向量集合
+faiss-cpu==1.7.4
+
+# streamlit-extras是streamlit的附加库，提供了一些额外的功能和组件
+streamlit-extras==0.3.5
+
+# tiktoken是由OpenAI开发的一个库，它可以让你看到一个给定的字符串将如何被GPT-3或其他大模型分解成tokens
+tiktoken==0.5.2
+
+# openai需要安装特定的版本
+openai==0.28
